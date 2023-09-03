@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on software engineeering projects
 - I am currently working on my coding skills
 - 📫 How to reach me; email: clevelihasi@gmail.com
+-                   ; Twitter @Clevelihasi
+-                   ; LinkedIn 
 - I am passionate about coding
 - I learn by practice.
 
